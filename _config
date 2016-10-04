@@ -1,0 +1,7 @@
+defaults:
+  -
+    scope:
+      path: ''
+    values:
+      layout: 'redirect'
+new_domain: 'http://seoncafe.github.io
